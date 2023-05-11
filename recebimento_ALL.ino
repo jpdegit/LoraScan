@@ -3,7 +3,7 @@
 Este código visa captar mensagens vindas a partir de um outro dispositivo , que esteja utilizando comunicação lora;
 Para utilizá-lo configure no modo:
 - SIMULANDO A COMUNICAÇÃO DO SENSOR: Configurar dois dispositivos, emissor e receptor, em " ESCOLHA DE DISPOSITIVO " , logo abaixo; e em seguida fazer upload em cada um deles;
-  - voce pode também configurar o endereço do DISPOSITIVO EMISSOR, no trecho: " ENDEREÇOS " (Obs não modifique o )
+  - voce pode também configurar o endereço do DISPOSITIVO EMISSOR, no trecho: " ENDEREÇOS " (Obs não modifique o Endereço do RECEPTOR ).
 - OUVINDO A COMUNICAÇÃO DO SENSOR: configure no trecho " ESCOLHA DE DISPOSITIVO " o uso para 
 
 O código está sobre a licença MIT, que está no repositório: https://github.com/jpdegit/LoraScan
