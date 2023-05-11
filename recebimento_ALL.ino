@@ -6,9 +6,11 @@ Para utilizá-lo configure no modo:
   - voce pode também configurar o endereço do DISPOSITIVO EMISSOR, no trecho: " ENDEREÇOS " (Obs não modifique o )
 - OUVINDO A COMUNICAÇÃO DO SENSOR: configure no trecho " ESCOLHA DE DISPOSITIVO " o uso para 
 
+O código está sobre a licença MIT, que está no repositório: https://github.com/jpdegit/LoraScan
 Autor: João Paulo Da silva Vasconcelos; Endereço para acessar CV: http://lattes.cnpq.br/7664730361329519
-
+repositório: https://github.com/jpdegit/LoraScan
 Referências: @sandeepmistry
+
 */
 #include <WiFi.h>
 #include <HTTPClient.h>
